@@ -3,7 +3,7 @@ import type { Site, SocialObjects } from "./types";
 export const SITE: Site = {
   website: "https://dawlab.pl", // replace this with your deployed domain
   author: "Dawid Łabno",
-  profile: "https://dawlab.pl,
+  profile: "https://dawlab.pl",
   desc: "Mój blog osobisty",
   title: "dawlab",
   ogImage: "astropaper-og.jpg",
