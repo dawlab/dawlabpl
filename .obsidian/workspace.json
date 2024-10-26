@@ -162,9 +162,29 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "513bef5438cdf394",
+  "active": "9cbdc7c45cbb12e5",
   "lastOpenFiles": [
-    "src/content/blog/iPod Nano 7 w 2024 roku.md",
-    "Untitled"
+    "dist/sitemap-index.xml",
+    "dist/sitemap-0.xml",
+    "dist/_astro/AstroPaper-v4.TylavUIc_2bIFXD.webp",
+    "dist/_astro/AstroPaper-v3.uaW8qzSG_Z1dI1d8.webp",
+    "dist/index.html",
+    "dist/tags/release/2/index.html",
+    "dist/tags/faq/2/index.html",
+    "dist/tags/docs/3/index.html",
+    "dist/tags/docs/2/index.html",
+    "dist/tags/type-script/index.html",
+    "dist/tags/tailwind-css/index.html",
+    "dist/tags/styled-components/index.html",
+    "dist/tags/rendering/index.html",
+    "dist/posts/how-do-i-develop-my-terminal-portfolio-website-with-react.png",
+    "dist/posts/tailwind-typography-plugin.png",
+    "dist/posts/how-to-use-git-hooks-to-set-created-and-modified-dates.png",
+    "dist/posts/predefined-color-schemes.png",
+    "dist/posts/how-do-i-develop-my-portfolio-website-blog.png",
+    "dist/posts/adding-new-posts-in-astro-paper-theme.png",
+    "dist/posts/how-to-integrate-giscus-comments-into-astro-paper.png",
+    "dist/posts/how-to-configure-astro-paper-theme.png",
+    "src/content/blog/iPod Nano 7 w 2024 roku.md"
   ]
 }
