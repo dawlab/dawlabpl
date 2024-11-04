@@ -1,30 +1,37 @@
+---
+layout: ../layouts/AboutLayout.astro
+title: "Polityka Prywatności"
+---
 
-# Polityka Prywatności dla strony dawlab.pl
+## Polityka Prywatności
 
-## Właściciel strony
-Właścicielem strony internetowej **dawlab.pl** jest Dawid Łabno, osoba fizyczna, nieposiadająca działalności gospodarczej. 
+Niniejsza Polityka Prywatności opisuje zasady przetwarzania danych osobowych użytkowników serwisu. Dbamy o ochronę prywatności i bezpieczeństwo danych, zgodnie z obowiązującymi przepisami prawnymi.
 
-## Zakres gromadzonych danych
-Na stronie **dawlab.pl** nie są zbierane żadne dane osobowe odwiedzających. Blog nie oferuje funkcjonalności logowania ani komentowania, w związku z czym nie ma potrzeby gromadzenia informacji takich jak imię, nazwisko, adres e-mail, czy inne dane osobowe.
+## Zakres Danych
 
-## Narzędzia analityczne
-Strona **dawlab.pl** korzysta wyłącznie z narzędzi analitycznych, takich jak **Google Analytics** oraz **Google Search Console**. Te narzędzia zbierają anonimowe dane dotyczące ruchu na stronie, w tym:
-- informacje o odwiedzinach strony,
-- źródła ruchu,
-- rodzaje urządzeń i przeglądarek.
+Zbieramy dane, które użytkownik dostarcza dobrowolnie, np. podczas rejestracji lub kontaktu poprzez formularze. Mogą to być informacje takie jak imię, nazwisko, adres e-mail, oraz wszelkie inne dane, które użytkownik przekazuje dobrowolnie.
 
-Dane te są gromadzone w celach statystycznych i służą do analizy popularności treści oraz optymalizacji funkcjonowania strony. Zebrane dane nie pozwalają na identyfikację konkretnych użytkowników.
+## Cel Przetwarzania Danych
 
-## Pliki cookies
-Google Analytics oraz Google Search Console mogą korzystać z plików cookies, aby ułatwić analizę ruchu na stronie. Cookies to małe pliki tekstowe zapisywane na urządzeniu użytkownika, które nie pozwalają na jego identyfikację. Użytkownicy mogą zarządzać ustawieniami cookies w swojej przeglądarce i mają możliwość ich zablokowania.
+Dane osobowe zbierane są w celu:
 
-## Prawa użytkowników
-Odwiedzający stronę **dawlab.pl** mają prawo do:
-- zapoznania się z niniejszą polityką prywatności,
-- zarządzania ustawieniami plików cookies w swojej przeglądarce.
+- realizacji usług dostępnych w serwisie,
+- kontaktu z użytkownikiem,
+- zapewnienia sprawnego działania strony i poprawy jakości świadczonych usług,
+- dostosowania zawartości strony do preferencji użytkowników.
 
-## Zmiany w polityce prywatności
-Właściciel zastrzega sobie prawo do aktualizacji polityki prywatności w dowolnym momencie, w celu dostosowania jej do zmian w prawie lub w funkcjonowaniu strony. Aktualna wersja polityki będzie zawsze dostępna na stronie **dawlab.pl**.
+## Udostępnianie Danych
 
-## Kontakt
-W razie jakichkolwiek pytań dotyczących polityki prywatności prosimy o kontakt na adres e-mail: [twoj-email@example.com](mailto:twoj-email@example.com).
+Dane osobowe użytkowników nie będą udostępniane podmiotom trzecim bez zgody użytkownika, za wyjątkiem sytuacji, w których wymagają tego przepisy prawa.
+
+## Bezpieczeństwo Danych
+
+Podejmujemy wszelkie niezbędne środki, aby zapewnić bezpieczeństwo przechowywanych danych. Używamy odpowiednich technologii i procedur, które mają na celu ochronę danych przed nieautoryzowanym dostępem, zmianą lub zniszczeniem.
+
+## Prawa Użytkowników
+
+Każdy użytkownik ma prawo do dostępu do swoich danych, ich poprawiania, żądania usunięcia lub ograniczenia przetwarzania. W przypadku jakichkolwiek pytań lub chęci skorzystania z tych praw, prosimy o kontakt pod adresem [dawlab@dawlab.pl](mailto:dawlab@dawlab.pl).
+
+## Zmiany w Polityce Prywatności
+
+Zastrzegamy sobie prawo do wprowadzania zmian w niniejszej Polityce Prywatności. Zmiany będą publikowane na tej stronie.
