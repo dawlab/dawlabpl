@@ -1,36 +1,41 @@
 ---
 layout: ../layouts/AboutLayout.astro
-title: "O mnie"
+title: "Polityka Prywatności"
 ---
 
-AstroPaper is a minimal, responsive and SEO-friendly Astro blog theme. I designed and crafted this based on [my personal blog](https://satnaing.dev/blog).
+## Polityka Prywatności
 
-This theme is aimed to be accessible out of the box. Light and dark mode are supported by
-default and additional color schemes can also be configured.
+Niniejsza Polityka Prywatności opisuje zasady przetwarzania danych osobowych użytkowników serwisu. Dbamy o ochronę prywatności i bezpieczeństwo danych, zgodnie z obowiązującymi przepisami prawnymi.
 
-This theme is self-documented \_ which means articles/posts in this theme can also be considered as documentations. So, see the documentation for more info.
+## Zakres Danych
+
+Zbieramy dane, które użytkownik dostarcza dobrowolnie, np. podczas rejestracji lub kontaktu poprzez formularze. Mogą to być informacje takie jak imię, nazwisko, adres e-mail, oraz wszelkie inne dane, które użytkownik przekazuje dobrowolnie.
+
+## Cel Przetwarzania Danych
+
+Dane osobowe zbierane są w celu:
+
+- realizacji usług dostępnych w serwisie,
+- kontaktu z użytkownikiem,
+- zapewnienia sprawnego działania strony i poprawy jakości świadczonych usług,
+- dostosowania zawartości strony do preferencji użytkowników.
+
+## Udostępnianie Danych
+
+Dane osobowe użytkowników nie będą udostępniane podmiotom trzecim bez zgody użytkownika, za wyjątkiem sytuacji, w których wymagają tego przepisy prawa.
+
+## Bezpieczeństwo Danych
+
+Podejmujemy wszelkie niezbędne środki, aby zapewnić bezpieczeństwo przechowywanych danych. Używamy odpowiednich technologii i procedur, które mają na celu ochronę danych przed nieautoryzowanym dostępem, zmianą lub zniszczeniem.
+
+## Prawa Użytkowników
+
+Każdy użytkownik ma prawo do dostępu do swoich danych, ich poprawiania, żądania usunięcia lub ograniczenia przetwarzania. W przypadku jakichkolwiek pytań lub chęci skorzystania z tych praw, prosimy o kontakt pod adresem [dawlab@dawlab.pl](mailto:dawlab@dawlab.pl).
+
+## Zmiany w Polityce Prywatności
+
+Zastrzegamy sobie prawo do wprowadzania zmian w niniejszej Polityce Prywatności. Zmiany będą publikowane na tej stronie.
 
 <div>
-  <img src="/assets/dev.svg" class="sm:w-1/2 mx-auto" alt="coding dev illustration">
+  <img src="/assets/privacy.svg" class="sm:w-1/2 mx-auto" alt="illustration of data privacy">
 </div>
-
-## Tech Stack
-
-This theme is written in vanilla JavaScript (+ TypeScript for type checking) and a little bit of ReactJS for some interactions. TailwindCSS is used for styling; and Markdown is used for blog contents.
-
-## Features
-
-Here are certain features of this site.
-
-- fully responsive and accessible
-- SEO-friendly
-- light & dark mode
-- fuzzy search
-- super fast performance
-- draft posts
-- pagination
-- sitemap & rss feed
-- highly customizable
-
-If you like this theme, you can star/contribute to the [repo](https://github.com/satnaing/astro-paper).  
-Or you can even give any feedback via my [email](mailto:contact@satnaing.dev).
