@@ -2,9 +2,6 @@
 layout: ../layouts/AboutLayout.astro
 title: "Polityka Prywatności"
 ---
-
-## Polityka Prywatności
-
 Niniejsza Polityka Prywatności opisuje zasady przetwarzania danych osobowych użytkowników serwisu. Dbamy o ochronę prywatności i bezpieczeństwo danych, zgodnie z obowiązującymi przepisami prawnymi.
 
 ## Zakres Danych
