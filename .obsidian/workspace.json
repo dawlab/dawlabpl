@@ -164,6 +164,7 @@
   },
   "active": "9cbdc7c45cbb12e5",
   "lastOpenFiles": [
+    "src/pages/index.astro.sb-7af0f64d-U10tcb",
     "dist/sitemap-index.xml",
     "dist/sitemap-0.xml",
     "dist/_astro/AstroPaper-v4.TylavUIc_2bIFXD.webp",
@@ -176,7 +177,6 @@
     "dist/tags/type-script/index.html",
     "dist/tags/tailwind-css/index.html",
     "dist/tags/styled-components/index.html",
-    "dist/tags/rendering/index.html",
     "dist/posts/how-do-i-develop-my-terminal-portfolio-website-with-react.png",
     "dist/posts/tailwind-typography-plugin.png",
     "dist/posts/how-to-use-git-hooks-to-set-created-and-modified-dates.png",
