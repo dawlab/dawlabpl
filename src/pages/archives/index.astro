@@ -31,9 +31,9 @@ const MonthMap: Record<string, string> = {
 };
 ---
 
-<Layout title={`Archives | ${SITE.title}`}>
-  <Header activeNav="archives" />
-  <Main pageTitle="Archives" pageDesc="All the articles I've archived.">
+<Layout title={`Archiwum | ${SITE.title}`}>
+  <Header activeNav="archiwum" />
+  <Main pageTitle="Archiwum" pageDesc="Wszystkie teksty opublikowane na blogu.">
     {
       Object.entries(
         getPostsByGroupCondition(posts, post =>
