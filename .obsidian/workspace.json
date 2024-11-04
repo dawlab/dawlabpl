@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "src/content/blog/terminal-development.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "terminal-development"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "src/content/blog/terminal-development.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for README"
+              "title": "Backlinks for terminal-development"
             }
           },
           {
@@ -112,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "src/content/blog/terminal-development.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from README"
+              "title": "Outgoing links from terminal-development"
             }
           },
           {
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "src/content/blog/terminal-development.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of README"
+              "title": "Outline of terminal-development"
             }
           }
         ]
@@ -162,8 +162,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9cbdc7c45cbb12e5",
+  "active": "513bef5438cdf394",
   "lastOpenFiles": [
+    "src/content/blog/tailwind-typography.md",
+    "src/content/blog/setting-dates-via-git-hooks.md",
+    "src/content/blog/predefined-color-schemes.md",
+    "src/content/blog/portfolio-website-development.md",
+    "src/content/blog/iPod Nano 7 w 2024 roku.md",
+    "src/content/blog/how-to-update-dependencies.md",
+    "src/content/blog/how-to-integrate-giscus-comments.md",
+    "src/content/blog/how-to-connect-astro-paper-blog-with-forestry-cms.md",
+    "src/content/blog/how-to-configure-astropaper-theme.md",
+    "src/content/blog/how-to-add-latex-equations-in-blog-posts.md",
+    "src/content/blog/how-to-add-an-estimated-reading-time.md",
+    "src/content/blog/how-to-add-a-new-social-icon.md",
+    "src/content/blog/example-draft-post.md",
+    "src/content/blog/dynamic-og-images.md",
+    "src/content/blog/customizing-astropaper-theme-color-schemes.md",
+    "src/content/blog/astro-paper-4.md",
+    "src/content/blog/astro-paper-3.md",
+    "src/content/blog/astro-paper-2.md",
+    "README.md",
     "src/pages/index.astro.sb-7af0f64d-U10tcb",
     "dist/sitemap-index.xml",
     "dist/sitemap-0.xml",
@@ -176,7 +195,6 @@
     "dist/tags/docs/2/index.html",
     "dist/tags/type-script/index.html",
     "dist/tags/tailwind-css/index.html",
-    "dist/tags/styled-components/index.html",
     "dist/posts/how-do-i-develop-my-terminal-portfolio-website-with-react.png",
     "dist/posts/tailwind-typography-plugin.png",
     "dist/posts/how-to-use-git-hooks-to-set-created-and-modified-dates.png",
@@ -184,7 +202,6 @@
     "dist/posts/how-do-i-develop-my-portfolio-website-blog.png",
     "dist/posts/adding-new-posts-in-astro-paper-theme.png",
     "dist/posts/how-to-integrate-giscus-comments-into-astro-paper.png",
-    "dist/posts/how-to-configure-astro-paper-theme.png",
-    "src/content/blog/iPod Nano 7 w 2024 roku.md"
+    "dist/posts/how-to-configure-astro-paper-theme.png"
   ]
 }
